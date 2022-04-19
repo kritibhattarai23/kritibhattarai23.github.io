@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Page
-![AB.png](/docs/assests/images/AB.png)
+![AB.png](/assests/images/AB.png)
 
 Hello, My name is Aahana Bajracharya.
 
@@ -7,12 +7,6 @@ I am a cognitive neuroscientist working on developing computational methods to u
 
 Keywords: effortful listening, cognitive demand, speech processing, cochlear implant, neuroimaging
 
-### About me
-[LinkedIn](www.linkedin.com/in/aahana-bajracharya)
-
-[Google Scholar](https://scholar.google.com/citations?user=hsh907UAAAAJ&hl=en)
-
-[ORCiD](https://orcid.org/0000-0002-7361-6020)
 
 [Highlights](https://engineering.wustl.edu/academics/student-profiles/Aahana-Bajracharya.html)
 
