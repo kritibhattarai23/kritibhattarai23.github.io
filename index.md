@@ -1,5 +1,4 @@
 ## Welcome to my GitHub Page
-![AB.png](/assests/images/AB.png)
 
 Hello, My name is Aahana Bajracharya.
 
