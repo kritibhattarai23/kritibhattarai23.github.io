@@ -2,14 +2,18 @@
 layout: default
 ---
 ## Welcome to my GitHub Page
+Hello, My name is Aahana Bajracharya.
 
-Cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing. Skilled in data collection and analysis using functional magnetic resonance imaging and optical neuroimaging. Passionate about STEM communication. Recognized for teamwork and leadership skills.
+I am a cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing. My technical skills include data collection and analysis using functional magnetic resonance imaging and optical neuroimaging. I have been recognized for teamwork, leadership skills, and science communication.
 
 Keywords: effortful listening, cognitive demand, speech processing, cochlear implant, neuroimaging
 
-You can use the [editor on GitHub](https://github.com/Aahana1/aahana.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
+[LinkedIn](www.linkedin.com/in/aahana-bajracharya)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Google Scholar](https://scholar.google.com/citations?user=hsh907UAAAAJ&hl=en)
+
+[Highlights](https://engineering.wustl.edu/academics/student-profiles/Aahana-Bajracharya.html)
 
 ### Markdown
 
