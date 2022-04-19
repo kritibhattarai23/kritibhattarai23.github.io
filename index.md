@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Welcome to my GitHub Page
-![AB.png](/docs/assests/images)
+![AB.png](/docs/assests/images/AB.png)
 
 Hello, My name is Aahana Bajracharya.
 
