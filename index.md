@@ -1,6 +1,3 @@
----
-layout: default
----
 ## Welcome to my GitHub Page
 ![AB.png](/docs/assests/images/AB.png)
 
