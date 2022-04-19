@@ -2,6 +2,8 @@
 layout: default
 ---
 ## Welcome to my GitHub Page
+![AB.png](/docs/assests/images)
+
 Hello, My name is Aahana Bajracharya.
 
 I am a cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing. My technical skills include data collection and analysis using functional magnetic resonance imaging and optical neuroimaging. I have been recognized for teamwork, leadership skills, and science communication.
@@ -13,8 +15,11 @@ Keywords: effortful listening, cognitive demand, speech processing, cochlear imp
 
 [Google Scholar](https://scholar.google.com/citations?user=hsh907UAAAAJ&hl=en)
 
+[ORCiD](https://orcid.org/0000-0002-7361-6020)
+
 [Highlights](https://engineering.wustl.edu/academics/student-profiles/Aahana-Bajracharya.html)
 
+<!---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -46,3 +51,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--->
