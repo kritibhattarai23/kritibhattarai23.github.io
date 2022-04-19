@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
+## Welcome to my GitHub Page
+
+Cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing. Skilled in data collection and analysis using functional magnetic resonance imaging and optical neuroimaging. Passionate about STEM communication. Recognized for teamwork and leadership skills.
+
+Keywords: effortful listening, cognitive demand, speech processing, cochlear implant, neuroimaging
 
 You can use the [editor on GitHub](https://github.com/Aahana1/aahana.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
