@@ -17,8 +17,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* August 2017 - Present: Graduate Research Assistant
+  * Washington University
+  <!--
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
@@ -26,7 +27,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-<!--  
+
 Skills
 ======
 * Skill 1
