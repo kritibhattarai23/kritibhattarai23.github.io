@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page
+Welcome to my GitHub Page
 
 Hello, My name is Aahana Bajracharya.
 
