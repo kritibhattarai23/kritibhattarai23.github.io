@@ -19,7 +19,8 @@ Work experience
 ======
 * August 2017 - Present: Graduate Research Assistant
   * Washington University
-  <!--
+
+<!--
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
