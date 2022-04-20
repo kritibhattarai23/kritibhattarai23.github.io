@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aahana Bajracharya"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Aahana Bajracharya"
 description              : &description "I am a cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing. My technical skills include data collection and analysis using functional magnetic resonance imaging and optical neuroimaging. I have been recognized for teamwork, leadership skills, and science communication."
-url                      : https://aahana1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://aahana1.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "Aahana1/aahana1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
