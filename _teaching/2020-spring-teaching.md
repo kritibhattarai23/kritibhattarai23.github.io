@@ -1,8 +1,9 @@
 ---
+layout: archive
 title: "Biological Imaging Technology"
 collection: teaching
 type: "Graduate level course BME/ESE 589"
-permalink: /2020-spring-teaching.md
+permalink: /2020-spring-teaching/
 venue: "Washington University in St.Louis, Department of Biomedical Engineering/ Department of Electrical and Systems Engineering"
 location: "St.Louis MO, USA"
 ---
