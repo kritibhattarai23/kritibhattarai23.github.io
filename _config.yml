@@ -119,6 +119,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _teaching
   - files
 exclude:
   - "*.sublime-project"
