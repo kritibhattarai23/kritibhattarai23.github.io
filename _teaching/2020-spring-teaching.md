@@ -1,7 +1,7 @@
 ---
 title: "Biological Imaging Technology"
 collection: teaching
-permalink: teaching/2020-spring-teaching/
+permalink: /teaching/2020-spring-teaching
 venue: "Washington University in St.Louis, Department of Biomedical Engineering/ Department of Electrical and Systems Engineering"
 ---
 Format: In-person/Virtual, SPRING 2020
