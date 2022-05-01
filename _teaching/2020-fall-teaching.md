@@ -2,7 +2,7 @@
 title: "Functional Neuroimaging Methods"
 collection: teaching
 type: "Graduate level course PSYCH 4450"
-permalink: "/_teaching/2020-fall-teaching.md"
+permalink: /teaching/2020-fall-teaching.md
 venue: "Washington University in St.Louis, Department of Psychological and Brain Sciences"
 location: "St.Louis, MO, USA"
 ---
