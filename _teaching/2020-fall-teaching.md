@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Functional Neuroimaging Methods"
 collection: teaching
 type: "Graduate level course PSYCH 4450"
