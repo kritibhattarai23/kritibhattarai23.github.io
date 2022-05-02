@@ -1,5 +1,5 @@
 ---
-title: "Functional Neuroimaging Methods (PSYCH 4450)"
+title: "Functional Neuroimaging Methods PSYCH 4450"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-fall-teaching-2
