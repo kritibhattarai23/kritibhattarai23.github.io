@@ -4,6 +4,8 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Washington University in St.Louis, Department of Biomedical Engineering/ Department of Electrical and Systems Engineering"
+date: 2020
+location: "St.Louis, USA"
 ---
 In-person/Virtual, BME/ESE 589, Spring 2020
 
