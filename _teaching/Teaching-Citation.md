@@ -4,7 +4,6 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/Teaching-Citation.md
 venue: "Washington University in St.Louis, Center for Teaching and Learning"
-date: 2017
 location: "St.Louis MO, USA"
 ---
 ![image](https://user-images.githubusercontent.com/24442160/166176242-981b3169-521c-47af-a581-efe67bd13558.png)
