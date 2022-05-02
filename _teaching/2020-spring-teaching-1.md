@@ -1,5 +1,5 @@
 ---
-title: "Biological Imaging Technology (BME/ESE 589)"
+title: "Biological Imaging Technology BME ESE 589"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2020-spring-teaching-1
