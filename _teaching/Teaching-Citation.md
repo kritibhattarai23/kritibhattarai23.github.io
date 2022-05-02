@@ -8,7 +8,8 @@ date: 2017-01-01
 location: "St.Louis MO, USA"
 ---
 
-![image](Pyramid-white.png)
+![Workshops](/assets/images/Pyramid-white.png)
+
 Professional Development in Teaching Program Workshops
 
 **Foundation in Teaching workshops**
