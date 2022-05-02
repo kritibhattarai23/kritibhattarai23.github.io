@@ -1,11 +1,14 @@
+<!--
 ---
 title: "Functional Neuroimaging Methods "
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-fall-teaching-2
 ---
-<!--venue: "Washington University in St.Louis, Department of Psychological and Brain Sciences"
+venue: "Washington University in St.Louis, Department of Psychological and Brain Sciences"
 location: "St.Louis, USA"-->
+---
+Functional Neuroimaging Methods
 
 Virtual, PSYCH 4450, Fall 2020
 
