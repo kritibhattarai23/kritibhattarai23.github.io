@@ -1,7 +1,7 @@
 ---
 title: "Professional Development in Teaching Program"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/Teaching-Citation
 venue: "Washington University in St.Louis, Center for Teaching and Learning"
 date: 2017-01-01
