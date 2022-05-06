@@ -1,15 +1,12 @@
 ---
 title: "Professional Development in Teaching Program"
 collection: teaching
-type: "Graduate course"
+type: "Workshop participant"
 permalink: /teaching/Teaching-Citation
 venue: "Washington University in St.Louis, Center for Teaching and Learning"
 date: 2017-01-01
 location: "St.Louis MO, USA"
 ---
-
-![Workshops](/assets/images/Pyramid-white.png)
-
 Professional Development in Teaching Program Workshops
 
 **Foundation in Teaching workshops**
@@ -22,3 +19,5 @@ Professional Development in Teaching Program Workshops
 1. Process-Oriented, Guided-Inquiry Learning (POGIL)
 2. Writing assessments in STEM
 3. Inclusive research mentoring
+
+![Workshops](/assets/images/Pyramid-white.png)
