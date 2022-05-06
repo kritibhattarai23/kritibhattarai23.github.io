@@ -1,3 +1,8 @@
+---
+title: "Publications"
+permalink: /publications/Bibliography
+author_profile: true
+---
 1. Jones, M.S., Zhu, Z., Bajracharya, A, Luor, A., & Peelle, J.E. (2021). A multi-dataset evaluation of
 frame censoring for task-based fMRI.https://doi.org/10.1101/2021.10.12.464075 (In-press)
 
