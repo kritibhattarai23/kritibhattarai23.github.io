@@ -1,5 +1,3 @@
-Welcome to my GitHub Page
-
 Hello, My name is Aahana Bajracharya.
 
 I am a cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing. My technical skills include data collection and analysis using functional magnetic resonance imaging and optical neuroimaging. I have been recognized for teamwork, leadership skills, and science communication.
