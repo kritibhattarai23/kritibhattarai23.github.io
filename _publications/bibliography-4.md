@@ -3,6 +3,6 @@ title: "Bajracharya, A., Sherafati, A., Culver, J. P., & Peelle, J.E. (2022). Ma
 collection: publications
 permalink: /publication/bibliography-4
 date: 2022-4-28
-venue: 'Proc. SPIE PC11946, Neural Imaging and Sensing 2022'
+venue: 'Proc. SPIE PC11946, Neural Imaging and Sensing'
 paperurl: 'https://doi.org/10.1117/12.2607173'
 ---
