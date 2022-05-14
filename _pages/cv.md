@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Imaging Science, Washington University in St.Louis, McKelvey School of Engineering, 2023 (expected)
+* Ph.D. in Imaging Science, Washington University in St.Louis, McKelvey School of Engineering, 2023 (expected)
 * M.S. in Electrical Engineering, Washington University in St.Louis, McKelvey School of Engineering, 2022
 * M.A. in Biology and Biomedical Sciences (Neuroscience), Washingtion University in St.Louis, School of Medicine, 2018
-* B.S. in Neuroscience and Applied Mathematics, Wesleyan College, 2016
+* B.A. in Neuroscience and Applied Mathematics, Wesleyan College, 2016
  
 Research experience
 ======
