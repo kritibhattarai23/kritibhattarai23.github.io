@@ -1,10 +1,10 @@
 ---
 title: "Sherafati, A., Dwyer, N., Bajracharya, A.,Hassanpour, M.S., Eggebrecht, A.T., Firszt, J.B., Culver,
-J. P., & Peelle, J.E. (2021). Prefrontal cortex supports speech perception in listeners with cochlear
+J. P., & Peelle, J.E. (2022). Prefrontal cortex supports speech perception in listeners with cochlear
 implants."
 collection: publications
 permalink: /publication/bibliography-3
 date: 2021-1-1
-venue: 'In-press'
-paperurl: 'https://doi.org/10.1101/2021.10.16.464654'
+venue: 'eLife'
+paperurl: 'https://doi.org/10.7554/eLife.75323'
 ---
