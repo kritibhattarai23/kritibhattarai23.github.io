@@ -31,25 +31,31 @@ Research experience
   * Summer Research Intern (May 2015 - July 2015)
 * Augusta University (previously Georgia Regents University), GA
   * Summer Resaerch Intern (May 2014 - July 2014)
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 Publications
 ======
-{% if post.header.teaser %}
+
+  <ul>
+  {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
-  <ul>{% for post in site.publications %}
+  
+  
+  {% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 <!--
-  * Duties included: Tagging issues
+ 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> 
+
+
+* Duties included: Tagging issues
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
