@@ -35,13 +35,13 @@ Research experience
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 <!--
   * Duties included: Tagging issues
