@@ -7,7 +7,7 @@ venue: "Washington University in St.Louis, Center for Teaching and Learning"
 date: 2017-01-01
 location: "St.Louis MO, USA"
 ---
-Professional Development in Teaching Program Workshops
+Professional Development in Teaching Program Workshops, 2017 - Present
 
 **Foundation in Teaching workshops**
 1. Who's in charge here? Strategies for managing a classroom 
