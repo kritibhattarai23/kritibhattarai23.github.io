@@ -1,5 +1,5 @@
 ---
-title: "Bajracharya, A., Sherafati, A., Culver, J. P., & Peelle, J.E. (2022). Mapping the neural bases of listening effort using high-density diffuse optical tomography (HD-DOT)."
+title: "Bajracharya, A., Sherafati, A., Culver, J. P., & Peelle, J.E. (2022). Mapping the neural bases of listening effort using high-density diffuse optical tomography (HD-DOT). Proc. SPIE PC11946, Neural Imaging and Sensing."
 collection: publications
 permalink: /publication/bibliography-4
 date: 2022-4-28
