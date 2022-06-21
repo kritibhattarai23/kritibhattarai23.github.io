@@ -16,6 +16,11 @@ Education
 * M.A. in Biology and Biomedical Sciences (Neuroscience), Washingtion University in St.Louis, School of Medicine, 2018
 * B.A. in Neuroscience and Applied Mathematics, Wesleyan College, 2016
  
+Workshops and Trainings
+======
+* [Neuromatch Academy](https://academy.neuromatch.io/courses) - Virtual summer course on Deep Learning, July 2022 
+* [Genetics & Neurobiology of Language](https://meetings.cshl.edu/courses.aspx?course=C-LANGUAGE&year=18) - Cold Spring Harbor Laboratory, July 2018
+
 Research experience
 ======
 * Washington University in St.Louis, MO
@@ -27,6 +32,17 @@ Research experience
 * Augusta University (previously Georgia Regents University), GA
   * Summer Resaerch Intern (May 2014 - July 2014)
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 <!--
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -45,11 +61,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
@@ -57,11 +69,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
