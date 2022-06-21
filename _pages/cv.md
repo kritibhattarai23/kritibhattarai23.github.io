@@ -16,9 +16,9 @@ Education
 * M.A. in Biology and Biomedical Sciences (Neuroscience), Washingtion University in St.Louis, School of Medicine, 2018
 * B.A. in Neuroscience and Applied Mathematics, Wesleyan College, 2016
  
-Workshops and Trainings
+Summer Courses & Trainings
 ======
-* [Neuromatch Academy](https://academy.neuromatch.io/courses) - Virtual summer course on Deep Learning, July 2022 
+* [Neuromatch Academy](https://academy.neuromatch.io/courses) - Virtual course on Deep Learning, July 2022 
 * [Genetics & Neurobiology of Language](https://meetings.cshl.edu/courses.aspx?course=C-LANGUAGE&year=18) - Cold Spring Harbor Laboratory, July 2018
 
 Research experience
