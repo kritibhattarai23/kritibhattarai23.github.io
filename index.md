@@ -1,9 +1,10 @@
-Hello, My name is Aahana Bajracharya.
+Hello, 
 
-I am a cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing. My technical skills include data collection and analysis using functional magnetic resonance imaging and optical neuroimaging. I have been recognized for teamwork, leadership skills, and science communication.
+Thank you for stopping by my page.
 
-Keywords: effortful listening, cognitive demand, speech processing, cochlear implant, neuroimaging
+I am a cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing. 
 
+[fNIRS2022](https://fnirs.org/2022/01/01/sfnirs2022_171/)
 
 [Highlights](https://engineering.wustl.edu/academics/student-profiles/Aahana-Bajracharya.html)
 
