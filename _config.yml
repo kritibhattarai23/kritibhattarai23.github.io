@@ -79,13 +79,13 @@ analytics:
 # Site Author
 author:
   name             : "Aahana Bajracharya"
-  avatar           : "bitmap.png"
+  avatar           : "Aahana_HS (2).png"
   bio              : "Cognitive Neuroscience & Imaging Science"
   location         : "St.Louis, Missouri, United States"
   employer         : "Washington University in St.Louis"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hsh907UAAAAJ&hl=en"
-  email            :
+  email            : "aahana@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
