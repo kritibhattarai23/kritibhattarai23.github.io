@@ -3,7 +3,7 @@ Hello,
 Thank you for stopping by my page.
 I am a cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing.
 
-![fNIRS 2022 poster](/assets/images/Aahana_Bajracharya_SfNIRS_2022_Oct4th.png)
+![fNIRS 2022 poster](/assets/images/PS2_24_171_Aahana_Bajracharya_SfNIRS_2022.jpg)
 SfNIRs members can post questions about my poster here: [fNIRS2022](https://fnirs.org/2022/01/01/sfnirs2022_171/)
 Feel free to email me at aahana@wustl.edu
 
