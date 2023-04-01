@@ -1,11 +1,11 @@
 ---
 title: "Jones, M.S., Zhu, Z., Bajracharya, A, Luor, A., & Peelle, J.E. (2021). A multi-dataset evaluation of
-frame censoring for task-based fMRI. In press"
+frame censoring for task-based fMRI."
 collection: publications
 permalink: /publication/bibliography-2
 date: 2022-1-1
 venue: 'Aperture Neuro'
-paperurl: 'https://doi.org/10.52294/ApertureNeuro.2022.2.NXOR2026'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/36162001/'
 ---
 Keywords: motion correction, head movement, frame censoring, scrubbing, FD, DVARS, task-based fMRI
 
