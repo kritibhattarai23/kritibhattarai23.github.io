@@ -1,12 +1,14 @@
 Hello, 
 
 Thank you for stopping by my page.
-I am a cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing.
+I am a cognitive neuroscientist working on developing novel naturalistic neuroimaging paradigms to understand neural bases of spoken language processing. I have managed neuroimaging data collection/analysis in over 300 participants including individuals with neuroprosthetic devices like Cochlear Implants and Deep Brain Stimulators across four research protocols. I also work on optimizing the ergonomics of the experimental apparatus
+and develop the standard operating procedure for precision tomographic imaging.
 
+<!--
 ![fNIRS 2022 poster](/assets/images/PS2_24_171_Aahana_Bajracharya_SFNIRS_2022.jpg)
 SfNIRs members can post questions about my poster here: [fNIRS2022](https://fnirs.org/2022/01/01/sfnirs2022_171/)
 Feel free to email me at aahana@wustl.edu
-
+-->
 [Highlights](https://engineering.wustl.edu/academics/student-profiles/Aahana-Bajracharya.html)
 
 <!---
