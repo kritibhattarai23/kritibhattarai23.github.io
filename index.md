@@ -1,8 +1,8 @@
 Hello, 
 
-Thank you for stopping by my page.
-I am a cognitive neuroscientist working on developing novel naturalistic neuroimaging paradigms to understand neural bases of spoken language processing. I have managed neuroimaging data collection/analysis in over 300 participants including individuals with neuroprosthetic devices like Cochlear Implants and Deep Brain Stimulators across four research protocols. I also work on optimizing the ergonomics of the experimental apparatus
-and develop the standard operating procedure for precision tomographic imaging.
+Thank you for visiting my page. I am a cognitive neuroscientist specializing in developing innovative neuroimaging paradigms to explore the neural mechanisms underlying spoken language processing. I have successfully managed neuroimaging data collection and analysis for over 300 participants, including those with neuroprosthetic devices such as Cochlear Implants and Deep Brain Stimulators, across four research protocols. Additionally, I am dedicated to optimizing the ergonomics of experimental apparatuses and developing standard operating procedures for precise tomographic imaging.
+
+Aahana
 
 <!--
 ![fNIRS 2022 poster](/assets/images/PS2_24_171_Aahana_Bajracharya_SFNIRS_2022.jpg)
