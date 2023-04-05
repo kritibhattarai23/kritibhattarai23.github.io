@@ -15,9 +15,10 @@ Professional Development in Teaching Program Workshops, 2017 - Present
 3. Pedagogy 101
 4. Pedagogy 102
 
-**Advanced level STEM workshops**
+**Advanced level workshops**
 1. Process-Oriented, Guided-Inquiry Learning (POGIL)
 2. Writing assessments in STEM
 3. Inclusive research mentoring
+4. Moving beyond the Gender Binary in STEM education
 
 ![Workshops](/assets/images/Pyramid-white.png)
