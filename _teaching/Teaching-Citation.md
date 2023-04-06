@@ -20,5 +20,6 @@ Professional Development in Teaching Program Workshops, 2017 - Present
 2. Writing assessments in STEM
 3. Inclusive research mentoring
 4. Moving beyond the Gender Binary in STEM education
+5. Creating a teaching portfolio
 
 ![Workshops](/assets/images/Pyramid-white.png)
