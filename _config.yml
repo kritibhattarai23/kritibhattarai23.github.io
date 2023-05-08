@@ -13,7 +13,7 @@ name                     : &name "Kriti Bhattarai"
 description              : &description "I am a cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing. My technical skills include data collection and analysis using functional magnetic resonance imaging and optical neuroimaging. I have been recognized for teamwork, leadership skills, and science communication."
 url                      : "https://kritibhattarai23.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "kritibhattarai23/kritibhattarai23.github.io"
-teaser                   : "500x300.png"
+teaser                   : #"500x300.png"
 breadcrumbs              : false # true, false (default)
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
