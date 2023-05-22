@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Kriti Bhattarai"
   avatar           : "bitmap.png"
-  bio              : "Department of Computer Science| Institute of Informatics"
+  bio              : "Department of Computer Science | Institute of Informatics"
   location         : "St.Louis, MO, USA"
   employer         : "Washington University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -98,7 +98,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 'https://www.linkedin.com/in/kriti-bhattarai-7bb84671/''
   orcid            : #"https://orcid.org/0000-0002-7361-6020"
