@@ -9,7 +9,6 @@ Kriti
 SfNIRs members can post questions about my poster here: [fNIRS2022](https://fnirs.org/2022/01/01/sfnirs2022_171/)
 Feel free to email me at aahana@wustl.edu
 -->
-[Highlights](https://engineering.wustl.edu/academics/student-profiles/Aahana-Bajracharya.html)
 
 <!---
 ### Markdown
