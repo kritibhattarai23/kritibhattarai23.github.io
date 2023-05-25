@@ -4,7 +4,7 @@ title: "Entity Extraction from Unstructured Electronic Health Records: A Compara
 collection: publications
 permalink: /publication/bibliography-1
 date: 2023-5-1
-venue: '(In submission) ACL Clinical NLP'
+venue: 'ACL Clinical NLP (In submission)'
 
 paperurl: 'https://openreview.net/forum?id=ywZQxIyUAnF'
 ---
