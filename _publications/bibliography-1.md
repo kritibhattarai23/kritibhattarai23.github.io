@@ -1,10 +1,11 @@
 ---
-title: "Bhattarai, K., Oh, I.Y, Caruthers, D. F., Payne, P.R.O, Lai, A.M.
-(2023). Entity Extraction from Unstructured Electronic Health Records: A Comparative Study of Spacy’s Hybrid Natural Language Processing Methods, BERT and GPT-3 Language model. ACL Clinical NLP. In submission"
+title: "Entity Extraction from Unstructured Electronic Health Records: A Comparative Study of Spacy’s Hybrid Natural Language Processing Methods, BERT and GPT-3 Language model. ACL Clinical NLP. Bhattarai, K., Oh, I.Y, Caruthers, D. F., Payne, P.R.O, Lai, A.M.
+(2023)."
 collection: publications
 permalink: /publication/bibliography-1
 date: 2023-5-1
-venue: 'ACL Clinical NLP'
+venue: '(In submission) ACL Clinical NLP'
+
 paperurl: 'https://openreview.net/forum?id=ywZQxIyUAnF'
 ---
 Keywords: clinical natural language processing, entity extractions, electronic health records
