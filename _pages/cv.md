@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![PDF Preview](../images/Resume_KritiBhattarai_site.png)
+[Download PDF](Resume_KritiBhattarai_site.pdf)
 <!--
 Education
 ======
