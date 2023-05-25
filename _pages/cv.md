@@ -11,26 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Imaging Science, Washington University in St.Louis, McKelvey School of Engineering, 2024 (expected)
-* M.S. in Electrical Engineering, Washington University in St.Louis, McKelvey School of Engineering, 2022
-* M.A. in Biology and Biomedical Sciences (Neuroscience), Washingtion University in St.Louis, School of Medicine, 2018
-* B.A. in Neuroscience and Applied Mathematics, Wesleyan College, 2016
- 
-Summer Courses & Trainings
-======
-* [Neuromatch Academy](https://academy.neuromatch.io/courses) - Virtual course on Deep Learning, July 2022 
-* [Genetics & Neurobiology of Language](https://meetings.cshl.edu/courses.aspx?course=C-LANGUAGE&year=18) - Cold Spring Harbor Laboratory, July 2018
+* Ph.D. in Computer Science, Washington University in St.Louis, McKelvey School of Engineering, 2024 (expected)
+* B.S. in Computer Science, Westminster College, 2015
 
 Research experience
 ======
 * Washington University in St.Louis, MO
-  * Graduate Research Assistant (Aug 2016 - Present)
-* Wesleyan College, GA
-  * Undergraduate Research Assistant (Jan 2013 - May 2016)
-* University of Rochester, NY
-  * Summer Research Intern (May 2015 - July 2015)
-* Augusta University (previously Georgia Regents University), GA
-  * Summer Resaerch Intern (May 2014 - July 2014)
+  * Graduate Research Assistant (Aug 2018 - Present)
+* Westminster College, MO
+  * Summer Research Assistant (May 2015 - Aug 2015)
  
 Publications
 ======
