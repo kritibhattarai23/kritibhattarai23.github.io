@@ -1,3 +1,46 @@
 Hello, 
 
-I am a PhD Candidate in the Department of Computer Science. My primary research focus is in clinical informatics, natural language processing and machine learning, and I am advised by Dr. Albert Lai at the Institute of Informatics. 
+Thank you for visiting my page. I am a cognitive neuroscientist specializing in developing innovative neuroimaging paradigms to explore the neural mechanisms underlying spoken language processing. I have successfully managed neuroimaging data collection and analysis for over 300 participants, including those with neuroprosthetic devices such as Cochlear Implants and Deep Brain Stimulators, across four research protocols. Additionally, I am dedicated to optimizing the ergonomics of experimental apparatuses and developing standard operating procedures for precise tomographic imaging.
+
+Aahana
+
+<!--
+![fNIRS 2022 poster](/assets/images/PS2_24_171_Aahana_Bajracharya_SFNIRS_2022.jpg)
+SfNIRs members can post questions about my poster here: [fNIRS2022](https://fnirs.org/2022/01/01/sfnirs2022_171/)
+Feel free to email me at aahana@wustl.edu
+-->
+[Highlights](https://engineering.wustl.edu/academics/student-profiles/Aahana-Bajracharya.html)
+
+<!---
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aahana1/aahana.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--->

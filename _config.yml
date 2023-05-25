@@ -10,10 +10,11 @@ locale                   : "en-US"
 title                    : "Kriti Bhattarai"
 title_separator          : "-"
 name                     : &name "Kriti Bhattarai"
-description              : #&description "I am a cognitive neuroscientist working on developing computational methods to understand the neural bases of spoken language processing. My technical skills include data collection and analysis using functional magnetic resonance imaging and optical neuroimaging. I have been recognized for teamwork, leadership skills, and science communication."
-url                      : "https://kritibhattarai23.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Hello,
+
+I am a PhD Candidate in the Department of Computer Science. My primary research focus is in clinical informatics, natural language processing and machine learning, and I am advised by Dr. Albert Lai at the Institute of Informatics" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "kritibhattarai23/kritibhattarai23.github.io"
-teaser                   : #"500x300.png"
+teaser                   : "500x300.png"
 breadcrumbs              : false # true, false (default)
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -84,7 +85,7 @@ author:
   location         : "St.Louis, MO, USA"
   employer         : "Washington University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""
+  googlescholar    : #"https://scholar.google.com/citations?user=hsh907UAAAAJ&hl=en"
   email            : "kriti.bhattarai@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -98,16 +99,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 'https://www.linkedin.com/in/kriti-bhattarai-7bb84671/''
-  orcid            :
+  linkedin         : #"aahana-bajracharya"
+  orcid            : #"https://orcid.org/0000-0002-7361-6020"
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : #"@aahanabajra"
   vine             :
   weibo            :
   xing             :
