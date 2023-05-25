@@ -21,18 +21,18 @@ Research experience
 * Westminster College, MO
   * Summer Research Assistant (May 2015 - Aug 2015)
  
-Publications
+Working Paper
 ======
   <ul>  
   {% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-<!--
- 
+  
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-teaching.html %}
   {% endfor %}</ul> 
 
 
@@ -43,7 +43,8 @@ Teaching
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
+  
+<!--
 Skills
 ======
 * Skill 1
