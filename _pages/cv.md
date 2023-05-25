@@ -29,10 +29,12 @@ Working Paper
   {% endfor %}</ul>
   
   
+<!--
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-teaching.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul> 
 
 
@@ -43,8 +45,7 @@ Teaching
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-<!--
+
 Skills
 ======
 * Skill 1
