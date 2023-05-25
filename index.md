@@ -1,14 +1,15 @@
 Hello, 
 
-Thank you for visiting my page. I am a PhD Candidate in the Department of Computer Science. My primary research focus is in clinical informatics, natural language processing and machine learning, and I am advised by Dr. Albert Lai at the Institute of Informatics
+Thank you for visiting my page. I am a cognitive neuroscientist specializing in developing innovative neuroimaging paradigms to explore the neural mechanisms underlying spoken language processing. I have successfully managed neuroimaging data collection and analysis for over 300 participants, including those with neuroprosthetic devices such as Cochlear Implants and Deep Brain Stimulators, across four research protocols. Additionally, I am dedicated to optimizing the ergonomics of experimental apparatuses and developing standard operating procedures for precise tomographic imaging.
 
-Kriti 
+Aahana
 
 <!--
 ![fNIRS 2022 poster](/assets/images/PS2_24_171_Aahana_Bajracharya_SFNIRS_2022.jpg)
 SfNIRs members can post questions about my poster here: [fNIRS2022](https://fnirs.org/2022/01/01/sfnirs2022_171/)
 Feel free to email me at aahana@wustl.edu
 -->
+[Highlights](https://engineering.wustl.edu/academics/student-profiles/Aahana-Bajracharya.html)
 
 <!---
 ### Markdown
