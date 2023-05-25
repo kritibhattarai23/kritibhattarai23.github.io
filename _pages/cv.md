@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![PDF Preview](../images/Resume_KritiBhattarai_site.png)
+<!--
 Education
 ======
 * Ph.D. in Computer Science, Washington University in St.Louis, McKelvey School of Engineering, 2024 (expected)
@@ -29,7 +31,7 @@ Working Paper
   {% endfor %}</ul>
   
   
-<!--
+
  
 Teaching
 ======
