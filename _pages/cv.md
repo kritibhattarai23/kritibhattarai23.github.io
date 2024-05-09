@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<iframe src="Resume_Kriti Bhattarai_site.pdf" width="100%" height="600px"></iframe>
 
 Education
 ======
@@ -20,21 +21,21 @@ Research experience
   * Graduate Research Assistant (Aug 2018 - Present)
 * Westminster College, MO
   * Summer Research Assistant (May 2015 - Aug 2015)
- 
+
 Working Paper
 ======
   <ul>  
   {% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 
- 
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> 
+  {% endfor %}</ul>
 
 
 Skills
@@ -43,7 +44,7 @@ Skills
 * Libraries: Pytorch, Scikit-Learn
 
 
-  
+
 Work Experience
 ======
 * Programmer/ Analyst | Dillard's Inc. | January 2016 - August 2018
