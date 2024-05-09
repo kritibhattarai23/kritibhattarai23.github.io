@@ -6,12 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 cv_pdf: Resume_KritiBhattarai_site.pdf
+---
 
-
-{% include base_path %}
-
-<embed src="Resume_KritiBhattarai_site.pdf" type="application/pdf" width="100%" height="600px" />
-
+<embed src="{{ page.cv_pdf }}" type="application/pdf" width="100%" height="600px" />
 
 Education
 ======
