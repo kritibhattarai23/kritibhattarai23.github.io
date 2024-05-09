@@ -10,6 +10,9 @@ cv_pdf: Resume_KritiBhattarai_site.pdf
 
 <embed src="{{ page.cv_pdf }}" type="application/pdf" width="100%" height="600px" />
 
+
+
+
 Education
 ======
 * Ph.D. in Computer Science, Washington University in St.Louis, McKelvey School of Engineering, 2024 (expected)
