@@ -8,7 +8,7 @@ venue: 'JAMIA Open (In Submission)'
 
 paperurl: 'https://www.biorxiv.org/content/10.1101/2023.09.27.559788v2'
 ---
-Keywords: clinical natural language processing, entity extractions, electronic health records
+
 
 Abstract
 Objective Accurately identifying clinical phenotypes from Electronic Health Records (EHRs) provides additional insights into patients’ health, especially when such information is unavailable in structured data. This study evaluates the application of OpenAI’s Generative Pre-trained Transformer (GPT)-4 model to identify clinical phenotypes from EHR text in non-small cell lung cancer (NSCLC) patients. The goal was to identify disease stages, treatments and progression utilizing GPT-4, and compare its performance against GPT-3.5-turbo, Flan-T5-xl, Flan-T5-xxl, and two rule-based and machine learning-based methods, namely, scispaCy and medspaCy.
