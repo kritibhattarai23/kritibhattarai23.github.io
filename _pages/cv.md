@@ -1,16 +1,17 @@
 ---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+cv_pdf: Resume_KritiBhattarai_site.pdf
 
-
-  layout: archive
-  title: "CV"
-  permalink: /cv/
-  author_profile: true
-  redirect_from:
-    - /resume
-  cv_pdf: Resume_Kriti Bhattarai_site.pdf
 
 {% include base_path %}
-<iframe src="Resume_Kriti Bhattarai_site.pdf" width="100%" height="600px"></iframe>
+
+<embed src="Resume_KritiBhattarai_site.pdf" type="application/pdf" width="100%" height="600px" />
+
 
 Education
 ======
