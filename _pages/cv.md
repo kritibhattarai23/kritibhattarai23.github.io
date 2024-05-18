@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-![Page 1](CV1.png)
-![Page 1](CV2.png)
+
+<img src="CV1.png" alt="Page 1" style="margin-bottom: -5px;">
+<img src="CV2.png" alt="Page 2">
