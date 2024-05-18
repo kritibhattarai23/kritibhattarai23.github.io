@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+4
 <style>
 .cv-image {
     display: block;
