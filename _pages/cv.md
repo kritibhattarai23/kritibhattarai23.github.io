@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<<<<<<< HEAD
-6
+it's here
+![Page 1](CV.png)
