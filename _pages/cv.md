@@ -1,11 +1,18 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-1
-<img src="CV1.png" alt="Page 1" style="margin-bottom: -5px;">
-<img src="CV2.png" alt="Page 2">
+
+<style>
+.cv-image {
+    display: block;
+    margin-bottom: -5px; /* Adjust this value as needed */
+}
+</style>
+
+<img src="CV1.png" alt="Page 1" class="cv-image">
+<img src="CV2.png" alt="Page 2" class="cv-image">
