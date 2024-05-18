@@ -8,5 +8,5 @@ redirect_from:
 ---
 6
 
-![Page 1](CV1.png)
-![Page 2](CV2.png)
+<img src="CV1.png" alt="Page 1" class="cv-image">
+<img src="CV2.png" alt="Page 2" class="cv-image">
