@@ -265,7 +265,7 @@
 .ai.fa-pull-right {
   margin-left: .3em;
 }
-/*  
+/*
  *  Repeat of the FontAwesome style classes to prevent override if academicons.css
  *  is called after font-awesome.css.
  */
@@ -324,4 +324,9 @@
 }
 .fa.fa-pull-right {
   margin-left: .3em;
+}
+
+.cv-image {
+    display: block;
+    margin-bottom: -5px; /* Adjust this value as needed */
 }
