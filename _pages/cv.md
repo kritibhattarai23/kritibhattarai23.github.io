@@ -6,13 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-4
-<style>
-.cv-image {
-    display: block;
-    margin-bottom: -5px; /* Adjust this value as needed */
-}
-</style>
+5
 
 <img src="CV1.png" alt="Page 1" class="cv-image">
 <img src="CV2.png" alt="Page 2" class="cv-image">
