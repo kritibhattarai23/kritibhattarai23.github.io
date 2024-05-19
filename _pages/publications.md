@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-<p style="font-size: 14pt;"><strong>This text is 14pt in size and bold.</strong></p>
+<p style="font-size: 18pt;"><strong>Posters and Presentations</strong></p>
 K. Bhattarai, I. Y.Oh, J. M. Sierra, P. R.O. Payne, Z. Abrams, A. M. Lai. “Leveraging GPT-4 for Identifying Clinical
 Phenotypes in Electronic Health Records: A Performance Comparison between GPT-4, GPT-3.5-turbo and spaCy’s
 Rule-based & Machine Learning-based methods.” Accepted at AMIA Informatics Summit, 2024
