@@ -4,7 +4,7 @@ title: "Leveraging GPT-4 for Identifying Cancer Phenotypes in Electronic Health 
 collection: publications
 permalink: /publication/bibliography-1
 date: 2023-5-1
-#venue: 'JAMIA Open (In Submission)'
+venue: 'JAMIA Open (In Submission)'
 
 paperurl: 'https://www.biorxiv.org/content/10.1101/2023.09.27.559788v2'
 ---
