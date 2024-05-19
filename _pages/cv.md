@@ -6,4 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-![Page 1](CV1.png)
+1
+<img src="CVv1.png" alt="Page 1" style="width: 50%;">
