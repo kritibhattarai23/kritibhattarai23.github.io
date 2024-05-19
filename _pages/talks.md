@@ -1,7 +1,10 @@
 ---
 layout: archive
-title: "Talk"
+title: "  "
 permalink: /talks/
 author_profile: true
+redirect_from:
+  - /resume
 ---
-here here
+
+Here:
