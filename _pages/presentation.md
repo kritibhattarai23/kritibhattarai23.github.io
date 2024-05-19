@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Presentation"
+title: "  "
 permalink: /presentation/
 author_profile: true
-
+redirect_from:
+  - /resume
 ---
 
 K. Bhattarai, I. Y.Oh, J. M. Sierra, P. R.O. Payne, Z. Abrams, A. M. Lai. “Leveraging GPT-4 for Identifying Clinical
