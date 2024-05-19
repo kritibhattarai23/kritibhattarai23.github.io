@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "TALKS"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 redirect_from:
+  - /resume
 ---
-
-Here:
+here here
+![Page 1](CV1.png)
+![Page 1](CV2.png)
