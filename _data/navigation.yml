@@ -19,8 +19,8 @@ main:
 #   - title: "Presentation"
 #     url: /presentation/
 
-   - title: "Research Presentation"
-     url: /year-archive/
+  # - title: "Research Presentation"
+  #   url: /year-archive/
 
 #   - title: "Blog Posts"
 #     url: /year-archive/
