@@ -5,5 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-cv_pdf: Resume_KritiBhattarai_site.pdf
 ---
+
+![Page 1](CV1.png)
